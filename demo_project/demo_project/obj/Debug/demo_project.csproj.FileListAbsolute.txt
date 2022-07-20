@@ -1,0 +1,16 @@
+D:\projects\demo_project\demo_project\bin\Debug\demo_project.exe.config
+D:\projects\demo_project\demo_project\bin\Debug\demo_project.exe
+D:\projects\demo_project\demo_project\bin\Debug\demo_project.pdb
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.csprojResolveAssemblyReference.cache
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.Form1.resources
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.Properties.Resources.resources
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.csproj.GenerateResource.Cache
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.exe
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.pdb
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.UI.Employees.resources
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.UI.Medicines.resources
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.UI.expire_medicines.resources
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.UI.Sell_Medicines.resources
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.UI.Home.resources
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.UI.bill_form.resources
+D:\projects\demo_project\demo_project\obj\Debug\demo_project.UI.invoice_form.resources
